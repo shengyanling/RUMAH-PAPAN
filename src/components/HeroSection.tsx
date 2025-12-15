@@ -10,7 +10,7 @@ export default function HeroSection() {
                     一間為新村<br />存放記憶的厝
                 </h1>
                 <p className="text-xl text-gray-800 leading-relaxed font-medium tracking-wide">
-                    班厝是一間收集故事的厝，牆上是老照片，桌上是新朋友，讓一條新村的記憶持續被看見。
+                    班厝是一間收集故事的厝，牆上是老照片，桌上是新朋友，讓一條新村的記憶持續被看見222222。
                 </p>
 
                 <div className="mt-12">
